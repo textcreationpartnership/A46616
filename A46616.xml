@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Most dear Soveraign, I cannot but love and admire you</title>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46616</idno><idno type="EEBO-CITATION">12576219</idno>
+  <idno type="VID">63577</idno>
+  <idno type="EEBO-PROQUEST">2240968260</idno>
+  
+            <idno type="STC">Wing J417C</idno>
+            <idno type="STC">ESTC R1562</idno>
+            <idno type="OCLC">12576219</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A46616)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 63577)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 962:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Most dear Soveraign, I cannot but love and admire you</title>
+                  <author>James, Elinor.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1689?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Broadside.</note>
+                  <note>Letter supporting Church of England.</note>
+                  <note>Title from opening lines of text.</note>
+                  <note>Signed: Elinor James.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Church of England.</term>
+               <term type="corporate_name">Catholic Church --  Controversial literature.</term>
+               <term type="genre_form">Broadsides</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:63577:1"/>
+            <opener>
+               <salute>Most Dear Soveraign,</salute>
+            </opener>
+            <p>I Cannot but Love and Admire You, because I see those Graces in You, that bespeaks You to be a Gracious Prince, and the more I think of Your Excellency, Your great Humility and Condescension, the more I love, and the greater is my desire to God for Your Ma<g ref="char:EOLhyphen"/>jesty, that the Almighty would vouchsafe to deliver his Anointed from all the Temptations and Subtilty of Man, that none of their Designs may take effect; for I know they speak like Angels, but they intend like Devils: under the Notion of Gods Glory and his Churches Good, they did not care if they had but the Power, they would destroy Nations and King<g ref="char:EOLhyphen"/>doms, and in destroying them, they would destroy the Members of the <hi>True Church.</hi> For in a word, their whole Spite and Envy is against <hi>Her,</hi> tho to Men they pretend to own <hi>Her</hi> at the greatest rate imaginable; but God knows, it is to promote their own Greatness and to keep the People in Ignorance and Blindness, that they may Idolize them for holy and good Men, when they are inwardly as ravenous as Wolves, and haters of all True Vertue and Piety, if it doth not come by their Means, and that they own their Way: I must needs say that some of the <hi>Roman Catholicks</hi> are brave and worthy Men, but for the <hi>Priests</hi> and <hi>Je<g ref="char:EOLhyphen"/>suits, Good Lord deliver me from them,</hi> for (many Years ago) they have lifted me up to Heaven, and in the same Breath they did fling me down to Hell, when they out of a pre<g ref="char:EOLhyphen"/>tended Love and Zeal to Convert me, did say then, that they had Converted Your Maje<g ref="char:EOLhyphen"/>sty, and they said they should Convert the Nation; but I was Angry, and I told them, <hi>That Gods Hand was against them,</hi> and <hi>that they were Perverters and not Converters,</hi> and I said to them as Christ said to the Scribes and Pharisees, <hi>Woe unto you Hypocrites, for you'll compass Sea and Land 'till you have made a Prosilite, but when he is so made, he is three<g ref="char:EOLhyphen"/>fold the Child of Hell more than he was before:</hi> but nothing would scare them, whatever I said, for they laid strong Siege every day one or other for several Weeks together, till I set my self in a Fast to give the late King a <hi>Petition,</hi> to shew what Designs they had to pervert this Nation, and I was certain if they did that, he would never have good Subjects; for it is wholly impossible, if they practice what they said to me: for I found them implacable Ene<g ref="char:EOLhyphen"/>mies to the Church of <hi>England,</hi> and they did not care what Opinion people were on, so they could but make them Enemies to the Church of <hi>England;</hi> so I saw plainly they had a design to destroy instead of curing, for they can dispense with all manner of Sins and Wickedness, altho that provokes God Almighties Wrath; and as for Faith and Self-denial, it is no matter whether they have that or no, if they believe as their Church believes: so I find they were Enemies to the <hi>True Church,</hi> for her Faith is her Foundation, and her relying upon the Me<g ref="char:EOLhyphen"/>rits of her Crucified Saviour, and imitating him, is her only Hope; for there is none can be Sav'd without Faith, Hope, and Charity; but I found that the Church of <hi>Rome</hi> hath not Faith, nor Charity, nor Self-denial, for if she had Faith, what need is there of Supplicating either Saints or Angels, but to God alone? And if she had Charity, how could she judge all to be Hereticks and Damn'd that did not Communion with her? And having not Faith, they have not Hope that God would pardon their Sins, but they have set up <hi>Purgatory,</hi> and their Hopes is in that, that after some time lying there, leaving good store of Money behind them, to have a great many Prayers said, to pray them out. O! Damnable Design of the Devil to cheat Men of their Souls! So I see plainly this is no True Church, for she is grounded upon the Sands, and not upon that Infallible Rock, my Precious Saviour, that hath deliver'd my Soul from the Subtilty of the <hi>Priests</hi> and <hi>Jesuits,</hi> who would have devour'd it, that I might stand up for his Worship and declare his Truth, and Pray for his Anointed, and to Pray for all others, that God would give them Faith, and strengthen them in the Day of Temptati<g ref="char:EOLhyphen"/>on: And through the Merits of my Precious Saviour, I hope I shall have that Power from God, that I shall stand against Ten thousand that oppose his Truth, for Truth shall overcome the World. And now, Precious Soveraign, if I have found Grace and Favour in Your Sight (who loves nothing above Your present and eternal Good) don't let Your Majesty be dis<g ref="char:EOLhyphen"/>pleas'd with any thing I have said, for it is nothing but what I have heard and know to be Truth; for I have not the Nature of <hi>Priests</hi> and <hi>Jesuits,</hi> who aims at their own Greatness, for I value You above all Your Kingdoms; for my Love is so True to Your Majesty, that if I was sure I should gain the whole World to do Your Majesty any Hurt or Injury; no, I would not do it. But to Serve Your Majesty, I could venture my Life, if I had a Hundred Lives I would Sacrifice them all to do You Good; and nothing grieves me so much in this World, as the fear of Your Majesties being Corrupted, and I am sure if God had not kept You and given You Wisdom to withstand Temptations, Your Majesty would not have been so Good by the hundreth part as Your Majesty is, and God knows there is nothing in this World (except the Joy of God) that Rejoyces me so much as to hear People speak Well of Your Majesty and Praise You; for I can<g ref="char:EOLhyphen"/>not but do it wherever I go: For was not Your Majesty Gracious in giving me a Paper, and I found You as a Prophet, for Your Majesty told me, It would Comfort me, and I thank God so it has, for I have found nothing in it that can make my Precious Soveraign whom my Soul loved, to be a <hi>Roman Catholick,</hi> neither is there any thing to scandalize His Me<g ref="char:EOLhyphen"/>mory, that I so highly esteemed, for I had rather to be a Sacrifice, or torn in a thousand pieces, than to have his Memory to be Abus'd or Evil-spoken of, now he cannot speak for himself; for I count it a great Glory to be True to their Friend, tho they are dead and gone; for He is not Dead to me, tho he is Dead to the World, therefore I shall speak as much for
+<pb facs="tcp:63577:2"/> his Memory as I would for his Person when he was alive: Therefore I see nothing in these <hi>Papers</hi> that will do any hurt to that, and if I had read the <hi>Papers</hi> before, I should not have thought them worthy of Three Days Fast, for I find them but Weak, and the common Argu<g ref="char:EOLhyphen"/>ments of the <hi>Roman Catholicks,</hi> and they have us'd the same to me, and if His late Maje<g ref="char:EOLhyphen"/>sty did write them down, being the substance of a Discourse, he doth not plainly say it is his Opinion, but if he had, that was no Argument that he was a <hi>Roman Catholick,</hi> but a <hi>True Apostolick Catholick,</hi> for there is no <hi>True Apostolick Catholick</hi> but must own that <hi>Christ hath but one Church upon Earth, and believe 'tis as visible as the Scripture;</hi> surely it is Truth, for by that <hi>S<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e</hi> is manifested: but I find there is a great Mistake in one thing, as to say, <hi>That the</hi> Romish <hi>Church is that True Church,</hi> for the Scripture plainly demonstrates that she is not, and therefore that shall be her Judge; therefore as the <hi>Paper</hi> says, <hi>That there is no need of entring into Disputes,</hi> but however, there is great need to bring her to the Truth and Light of Gods Word, for by the Power of that, all must be Justified or Condemned, then will she see plainly that she is not now that <hi>True Apostolick Church,</hi> but she is fallen from it; and for her to say, <hi>She is Infallible and cannot fall,</hi> she deceives her self, for Christ de<g ref="char:EOLhyphen"/>clares to the contrary, when he comes to Examine the Seven Churches of <hi>Asia,</hi> how Christ threatens them to remove their Candlestick; and what is that but to depart from them: but because he delights not in the fall of any Church, He bids them remember from whence they were fallen, and bids them Repent and do their first Works, or else I will come to thee quickly, and will remove thy Candlestick out of its place, except thou Repent: Therefore Your Majesty may see there is no Church but it is subject to Errors; but for Gods Spiritual Church, the Infallible Truth, <hi>Mystery of Mystery,</hi> that can never Err, for that is in the Breast of God, for he only is the Keeper and Instructer of that; but as for the Temporal Church, he gave his Apostles power to build Her, and She is builded, and I do verily believe that She hath Pow<g ref="char:EOLhyphen"/>er to Bind and to Loose, for it is impossible but that <hi>Christs Church</hi> should have his Power and his Spirit, for they are the Visible Marks of His <hi>True Church,</hi> tho sometimes there may be some Disgust for some Offence or other, that She may think She is forsaken, and think She hath lost Her Crown Jewels that made Her to be known to be the <hi>Church of Christ,</hi> and so rest satisfied with out them, and never use Her Endeavours to gain them, but out of Mo<g ref="char:EOLhyphen"/>desty denies them, and thinks that She don't stand in need of them, because She hears that o<g ref="char:EOLhyphen"/>thers makes their boast of having them, therefore She is asham'd to own them, because She thinks She hath them not, when God knows he never took them away from Her, but only hid them and darken'd them, because She did not prize them as She ought to have done; therefore he suffered the Adversary to Triumph over Her, in boasting of that that they had not, to see whether this would work upon Her, to make Her to seek and desire those Jew<g ref="char:EOLhyphen"/>els that She had so slighted, that he might Deck Her and Beautifie Her with those Ornaments, that he might once more delight in Her. O if She does but seek and desire them, She shall have the Power to wear them and to use them: surely She hath been long enough Toyling in the Wilderness to be weary, the Lord send Her well out; for when She comes, She will put an end to all our Differences, for She will own all the Apostles Doctrine, and stand by all their Doings. And as for the Church of <hi>England,</hi> tho there may be some things said a<g ref="char:EOLhyphen"/>gainst Her, there is no Church Truer than She. I wonder that any one can condemn any from separating from the <hi>Church</hi> of <hi>Rome,</hi> when God hath commanded it, and saith, <hi>Come out of her my People, least ye be partakers of her Plagues,</hi> and sure heavy Judgments must come to that Church that hath fallen from God to Man, and from Righreousness to Wicked<g ref="char:EOLhyphen"/>ness, and from the Spirit of Truth to Lying and Deceiving, and is not contented to be so her self, but would corrupt all others; and God knows, that too many have Drunk of the Cup of Fornication, for most of Mankind is Corrupted by the Filth thereof; for it grieves me to see how that the most part of Men, their Lives and Conversations is no more like Chri<g ref="char:EOLhyphen"/>stians than Light is to Darkness; for if Men feared God, how dare they to wrong the Widow and Fatherless, when God has plainly declar'd, that he will be a Husband to the Widow, and Father to the Fatherless; and if they did truly love God, how could they slight his Commands, and rob him of his Honour: I must confess I hate Superstitious Vanities, but I love the Al<g ref="char:EOLhyphen"/>mighty, and think nothing too much that he hath; but it grieves me to think that this Nati<g ref="char:EOLhyphen"/>on should lie under such a Curse as the robing the Church of her Lands, for there was no rea<g ref="char:EOLhyphen"/>son because she had bad Stewards, to be depriv'd of all; the greatest Injustice in the World, for they should still imploy'd it in Charitable Uses. Oh! what a sin Sacrilidge is, for they will never prosper that have her Lands; if his wrath came upon those that touch'd the Ark how much more would it come upon those that rob'd it. Therefore I humbly beseech your Majesty to re<g ref="char:EOLhyphen"/>store the Church her Lands so far as you are able, then will your Majesty be instrumental to turn the Curses of Church and State into Blessings. O the Almighty Sanctifie the Hearts of all Mankind, that they may bring forth such Fruits that they may be known to be Good Christi<g ref="char:EOLhyphen"/>ans, then will this Kingdom be Happy, and the People Blessed, and Your Majesty Glorious in being a King over such a People that seeks the Lord, and hates to be unjust, then Justice and Mercy shall meet together, and Truth and Rightecusness kiss each other, then God will re<g ref="char:EOLhyphen"/>joyce in the Works of his own Hand, which the Lord Grant. <hi>And so God save Your Majesty and Defend You from all Your Enemies, is the Prayer of</hi>
+            </p>
+            <closer>
+               <signed>Your Humble Servant, Subject, and Souls well-wisher <hi>ELINOR JAMES.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
